@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ToolsVersion="2.0">
+  <State>$base64$PFNvdXJjZUNvbnRyb2xJbmZvIHhtbG5zOnhzZD0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEiIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zOmRkbDI9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDAzL2VuZ2luZS8yIiB4bWxuczpkZGwyXzI9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDAzL2VuZ2luZS8yLzIiIHhtbG5zOmRkbDEwMF8xMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDA4L2VuZ2luZS8xMDAvMTAwIiB4bWxuczpkZGwyMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEwL2VuZ2luZS8yMDAiIHhtbG5zOmRkbDIwMF8yMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEwL2VuZ2luZS8yMDAvMjAwIiB4bWxuczpkZGwzMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDExL2VuZ2luZS8zMDAiIHhtbG5zOmRkbDMwMF8zMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDExL2VuZ2luZS8zMDAvMzAwIiB4bWxuczpkZGw0MDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEyL2VuZ2luZS80MDAiIHhtbG5zOmRkbDQwMF80MDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEyL2VuZ2luZS80MDAvNDAwIiB4bWxuczpkd2Q9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vRGF0YVdhcmVob3VzZS9EZXNpZ25lci8xLjAiPg0KICA8RW5hYmxlZD5mYWxzZTwvRW5hYmxlZD4NCiAgPFByb2plY3ROYW1lPjwvUHJvamVjdE5hbWU+DQogIDxBdXhQYXRoPjwvQXV4UGF0aD4NCiAgPExvY2FsUGF0aD48L0xvY2FsUGF0aD4NCiAgPFByb3ZpZGVyPjwvUHJvdmlkZXI+DQo8L1NvdXJjZUNvbnRyb2xJbmZvPg==</State>
+  <DataSources>
+    <ProjectItem>
+      <Name>CRIP.rds</Name>
+      <FullPath>CRIP.rds</FullPath>
+    </ProjectItem>
+  </DataSources>
+  <DataSets />
+  <Reports>
+    <ProjectItem>
+      <Name>CRIP Autoholds.rdl</Name>
+      <FullPath>CRIP Autoholds.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CRIP Blocks.rdl</Name>
+      <FullPath>CRIP Blocks.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CRIP Client Invoice Lines.rdl</Name>
+      <FullPath>CRIP Client Invoice Lines.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CRIP Client Invoices.rdl</Name>
+      <FullPath>CRIP Client Invoices.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CRIP Client Payments - By Client ID.rdl</Name>
+      <FullPath>CRIP Client Payments - By Client ID.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CRIP Client Payments - By Cost Centre.rdl</Name>
+      <FullPath>CRIP Client Payments - By Cost Centre.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CRIP Current Scheduler Detail.rdl</Name>
+      <FullPath>CRIP Current Scheduler Detail.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CRIP Customer Setups.rdl</Name>
+      <FullPath>CRIP Customer Setups.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CRIP Dashboard.rdl</Name>
+      <FullPath>CRIP Dashboard.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>AFM Direct Payments.rdl</Name>
+      <FullPath>AFM Direct Payments.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CRIP Held AR Invoices.rdl</Name>
+      <FullPath>CRIP Held AR Invoices.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CRIP High Assessed Clients.rdl</Name>
+      <FullPath>CRIP High Assessed Clients.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CRIP Homecare Rates.rdl</Name>
+      <FullPath>CRIP Homecare Rates.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CRIP Legacy Contracts.rdl</Name>
+      <FullPath>CRIP Legacy Contracts.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CRIP Max Charge Clients.rdl</Name>
+      <FullPath>CRIP Max Charge Clients.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CRIP Open Breaks.rdl</Name>
+      <FullPath>CRIP Open Breaks.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CRIP Process Errors.rdl</Name>
+      <FullPath>CRIP Process Errors.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CRIP Process Troubleshooter - By Client ID.rdl</Name>
+      <FullPath>CRIP Process Troubleshooter - By Client ID.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CRIP Provider Payments.rdl</Name>
+      <FullPath>CRIP Provider Payments.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CRIP Timesheet Import Log.rdl</Name>
+      <FullPath>CRIP Timesheet Import Log.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CRIP Timesheet Validation.rdl</Name>
+      <FullPath>CRIP Timesheet Validation.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CRIP Variance Summary - By Key Team.rdl</Name>
+      <FullPath>CRIP Variance Summary - By Key Team.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CRIP Variance Summary - By Period.rdl</Name>
+      <FullPath>CRIP Variance Summary - By Period.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CRIP Variance Summary - By Provider.rdl</Name>
+      <FullPath>CRIP Variance Summary - By Provider.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CRIP Variance.rdl</Name>
+      <FullPath>CRIP Variance.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>ExcelCare Payments.rdl</Name>
+      <FullPath>ExcelCare Payments.rdl</FullPath>
+    </ProjectItem>
+  </Reports>
+  <Configurations>
+    <Configuration>
+      <Name>Debug</Name>
+      <Platform>Win32</Platform>
+      <Options>
+        <OutputPath>bin\Debug</OutputPath>
+        <TargetServerVersion>SSRS2008R2</TargetServerVersion>
+        <TargetServerURL>http://cccs442/reportserver</TargetServerURL>
+        <TargetFolder>AFM</TargetFolder>
+        <TargetDataSourceFolder>Data Sources</TargetDataSourceFolder>
+        <TargetDatasetFolder>Datasets</TargetDatasetFolder>
+        <TargetReportPartFolder>Report Parts</TargetReportPartFolder>
+      </Options>
+    </Configuration>
+    <Configuration>
+      <Name>DebugLocal</Name>
+      <Platform>Win32</Platform>
+      <Options>
+        <OutputPath>bin\DebugLocal</OutputPath>
+        <TargetServerVersion>SSRS2008R2</TargetServerVersion>
+        <TargetFolder>AfmReportsConversion</TargetFolder>
+        <TargetDataSourceFolder>Data Sources</TargetDataSourceFolder>
+        <TargetDatasetFolder>Datasets</TargetDatasetFolder>
+        <TargetReportPartFolder>Report Parts</TargetReportPartFolder>
+      </Options>
+    </Configuration>
+    <Configuration>
+      <Name>Release</Name>
+      <Platform>Win32</Platform>
+      <Options>
+        <OutputPath>bin\Release</OutputPath>
+        <TargetServerVersion>SSRS2008R2</TargetServerVersion>
+        <TargetFolder>AfmReportsConversion</TargetFolder>
+        <TargetDataSourceFolder>Data Sources</TargetDataSourceFolder>
+        <TargetDatasetFolder>Datasets</TargetDatasetFolder>
+        <TargetReportPartFolder>Report Parts</TargetReportPartFolder>
+      </Options>
+    </Configuration>
+  </Configurations>
+</Project>
