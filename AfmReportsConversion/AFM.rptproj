@@ -10,6 +10,10 @@
   <DataSets />
   <Reports>
     <ProjectItem>
+      <Name>AFM Direct Payments.rdl</Name>
+      <FullPath>AFM Direct Payments.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
       <Name>CRIP Autoholds.rdl</Name>
       <FullPath>CRIP Autoholds.rdl</FullPath>
     </ProjectItem>
@@ -22,8 +26,8 @@
       <FullPath>CRIP Client Invoice Lines.rdl</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>CRIP Client Invoices.rdl</Name>
-      <FullPath>CRIP Client Invoices.rdl</FullPath>
+      <Name>AFM Client Invoices.rdl</Name>
+      <FullPath>AFM Client Invoices.rdl</FullPath>
     </ProjectItem>
     <ProjectItem>
       <Name>CRIP Client Payments - By Client ID.rdl</Name>
@@ -44,10 +48,6 @@
     <ProjectItem>
       <Name>CRIP Dashboard.rdl</Name>
       <FullPath>CRIP Dashboard.rdl</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>AFM Direct Payments.rdl</Name>
-      <FullPath>AFM Direct Payments.rdl</FullPath>
     </ProjectItem>
     <ProjectItem>
       <Name>CRIP Held AR Invoices.rdl</Name>
