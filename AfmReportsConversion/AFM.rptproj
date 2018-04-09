@@ -22,8 +22,8 @@
       <FullPath>AFM Direct Payments.rdl</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>CRIP Blocks.rdl</Name>
-      <FullPath>CRIP Blocks.rdl</FullPath>
+      <Name>AFM Blocks.rdl</Name>
+      <FullPath>AFM Blocks.rdl</FullPath>
     </ProjectItem>
     <ProjectItem>
       <Name>CRIP Client Invoice Lines.rdl</Name>

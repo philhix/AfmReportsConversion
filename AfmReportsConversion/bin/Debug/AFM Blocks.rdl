@@ -1149,7 +1149,7 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>CP21: CRIP Blocks</Value>
+                <Value>AFM Blocks</Value>
                 <Style>
                   <FontSize>20pt</FontSize>
                   <FontWeight>Bold</FontWeight>
@@ -1258,7 +1258,7 @@
             <Paragraph>
               <TextRuns>
                 <TextRun>
-                  <Value>CP21: CRIP Blocks</Value>
+                  <Value>AFM Blocks</Value>
                   <Style>
                     <FontSize>8pt</FontSize>
                   </Style>
