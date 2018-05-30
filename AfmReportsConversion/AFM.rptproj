@@ -14,16 +14,16 @@
       <FullPath>AFM Autoholds.rdl</FullPath>
     </ProjectItem>
     <ProjectItem>
+      <Name>AFM Blocks.rdl</Name>
+      <FullPath>AFM Blocks.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
       <Name>AFM Client Invoices.rdl</Name>
       <FullPath>AFM Client Invoices.rdl</FullPath>
     </ProjectItem>
     <ProjectItem>
       <Name>AFM Direct Payments.rdl</Name>
       <FullPath>AFM Direct Payments.rdl</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>AFM Blocks.rdl</Name>
-      <FullPath>AFM Blocks.rdl</FullPath>
     </ProjectItem>
     <ProjectItem>
       <Name>CRIP Client Invoice Lines.rdl</Name>
@@ -112,6 +112,14 @@
     <ProjectItem>
       <Name>ExcelCare Payments.rdl</Name>
       <FullPath>ExcelCare Payments.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>AFM Client Invoice Lines.rdl</Name>
+      <FullPath>AFM Client Invoice Lines.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>AFM Excel Care Payments.rdl</Name>
+      <FullPath>AFM Excel Care Payments.rdl</FullPath>
     </ProjectItem>
   </Reports>
   <Configurations>
